@@ -1,0 +1,13 @@
+color:
+- red
+- yellow
+- green
+- blue
+
+nature:
+  plant: green, brown
+  fruits:
+    apple: red
+    lemon: yellow
+  sky: blue, lightblue
+  sea: blue
