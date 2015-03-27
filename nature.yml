@@ -5,9 +5,19 @@ color:
 - blue
 
 nature:
-  plant: green, brown
+  plant:
+    grass
+    wood
+  grass
+  leaf: green
+  wood: brown
   fruits:
     apple: red
     lemon: yellow
   sky: blue, lightblue
   sea: blue
+  air:
+  human
+  animal:
+    cat
+    dog
