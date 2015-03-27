@@ -3,6 +3,7 @@ color:
 - yellow
 - green
 - blue
+- white
 
 nature:
   plant:
@@ -29,6 +30,9 @@ nature:
   earth
   sand
   stone
+  egg:
+    - white
+    - yellow
 
 astro:
   moon
