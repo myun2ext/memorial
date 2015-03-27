@@ -4,6 +4,10 @@ color:
 - green
 - blue
 - white
+- lightblue
+- lightgreen
+- darkblue
+- darkgreen
 
 nature:
   plant:
@@ -33,6 +37,10 @@ nature:
   egg:
     - white
     - yellow
+  metal:
+    iron
+    copper
+    aluminium
 
 astro:
   moon
