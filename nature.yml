@@ -11,6 +11,8 @@ nature:
   grass
   leaf: green
   wood: brown
+  frower:
+    tulip
   fruits:
     apple: red
     lemon: yellow
@@ -21,3 +23,12 @@ nature:
   animal:
     cat
     dog
+  soil
+  cray
+  ground
+  earth
+  sand
+  stone
+
+astro:
+  moon
